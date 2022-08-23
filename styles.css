@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+}
+
 .calculator {
     padding: 10px;
     border-radius: 1em;
